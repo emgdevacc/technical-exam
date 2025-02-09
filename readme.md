@@ -3,7 +3,7 @@
 Duration: 90 minutes
 Total Marks: 100
 
-_Section 1:_ Backend Development with Laravel API (20 Marks)
+#### Section 1: Backend Development with Laravel API (20 Marks)
 
 1. (10 marks) Write a Laravel API endpoint to create a new user with validation rules:
 
