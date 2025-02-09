@@ -17,7 +17,7 @@ Return a response with the newly created user or validation errors.
 
 2. (10 marks) Explain the difference between Laravel API Resource and JSON response in a controller. When should you use each?
 
-_Section 2:_ Laravel Blade Template (10 Marks)
+**Section 2:** Laravel Blade Template (10 Marks)
 
 3. (5 marks) How do you pass data from a Laravel controller to a Blade template? Provide a code example.
 
