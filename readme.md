@@ -1,4 +1,3 @@
-```markdown
 # Full Stack Developer - Coding Challenge
 
 **Duration:** 24-36 hours  
@@ -69,4 +68,3 @@ Build a **wallet system** where drivers can **top up**, **check balance**, and s
 ✅ Optimization & performance  
 ✅ Documentation & clarity  
 ✅ Git usage & commit history
-```
