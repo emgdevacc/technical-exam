@@ -30,7 +30,7 @@ Build a **wallet system** where drivers can **top up**, **check balance**, and s
 
 ✅ **Algorithm Task: Second Largest Number**
 
-- Write a function in **PHP** or another programming language your're comfortable with, to **return the second largest number** in an array in **O(n) time complexity**.
+- Write a function in **PHP** or any other programming language your're comfortable with, to **return the second largest number** in an array in **O(n) time complexity**.
 
 ---
 
